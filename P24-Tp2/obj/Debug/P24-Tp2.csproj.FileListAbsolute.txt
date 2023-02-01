@@ -1,0 +1,77 @@
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\bin\Debug\P24-Tp2.exe.config
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\bin\Debug\P24-Tp2.exe
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\bin\Debug\P24-Tp2.pdb
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\obj\Debug\P24-Tp2.csprojAssemblyReference.cache
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\obj\Debug\P24_Tp2.FrmMdi.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\obj\Debug\P24_Tp2.Properties.Resources.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\obj\Debug\P24-Tp2.csproj.GenerateResource.cache
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\obj\Debug\P24-Tp2.csproj.CoreCompileInputs.cache
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\obj\Debug\P24-Tp2.exe
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\obj\Debug\P24-Tp2.pdb
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\obj\Debug\P24_Tp2.frmGestionEtudiants.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\obj\Debug\P24_Tp2.frmApropos.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2\P24-Tp2\obj\Debug\P24_Tp2.frmListe.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\bin\Debug\P24-Tp2.exe.config
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\bin\Debug\P24-Tp2.exe
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\bin\Debug\P24-Tp2.pdb
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24-Tp2.csprojAssemblyReference.cache
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24_Tp2.FrmMdi.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24_Tp2.frmApropos.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24_Tp2.frmGestionEtudiants.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24_Tp2.frmListe.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24_Tp2.Properties.Resources.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24-Tp2.csproj.GenerateResource.cache
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24-Tp2.csproj.CoreCompileInputs.cache
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24-Tp2.exe
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24-Tp2.pdb
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24_Tp2.frmConnexion.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario\P24-Tp2\obj\Debug\P24_Tp2.frmRechercher.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\bin\Debug\P24-Tp2.exe.config
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\bin\Debug\P24-Tp2.exe
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\bin\Debug\P24-Tp2.pdb
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.csprojAssemblyReference.cache
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.FrmMdi.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmApropos.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmGestionEtudiants.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmListe.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmConnexion.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmRechercher.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.Properties.Resources.resources
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.csproj.GenerateResource.cache
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.csproj.CoreCompileInputs.cache
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.exe
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.pdb
+C:\Multihexa\actual-P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmStatistiques.resources
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\bin\Debug\P24-Tp2.exe.config
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\bin\Debug\P24-Tp2.exe
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\bin\Debug\P24-Tp2.pdb
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.csproj.AssemblyReference.cache
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.FrmMdi.resources
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmApropos.resources
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmGestionEtudiants.resources
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmListe.resources
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmConnexion.resources
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmRechercher.resources
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmStatistiques.resources
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.Properties.Resources.resources
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.csproj.GenerateResource.cache
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.csproj.CoreCompileInputs.cache
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.exe
+C:\Multihexa\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.pdb
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\bin\Debug\P24-Tp2.exe.config
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\bin\Debug\P24-Tp2.exe
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\bin\Debug\P24-Tp2.pdb
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.csproj.AssemblyReference.cache
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.csproj.SuggestedBindingRedirects.cache
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.FrmMdi.resources
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmApropos.resources
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmGestionEtudiants.resources
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmListe.resources
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmConnexion.resources
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmRechercher.resources
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.frmStatistiques.resources
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24_Tp2.Properties.Resources.resources
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.csproj.GenerateResource.cache
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.csproj.CoreCompileInputs.cache
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.exe
+D:\MULTIHEXA\P24\travail practique 2\P24-Tp2 - Copie (3) .. usuario - Copie\P24-Tp2\obj\Debug\P24-Tp2.pdb
